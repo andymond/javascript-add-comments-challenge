@@ -37,10 +37,10 @@ ul#comment_list .author {
 form#new_comment {
   width: 360px;
   background-color: #777;
+  margin-top: 10px;
   padding: 6px;
   border: 1px solid #666;
   border-radius: 3px;
-  display: none;
 }
 
 form#new_comment textarea {
